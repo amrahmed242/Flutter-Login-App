@@ -1,6 +1,6 @@
 # login_app
 
-A new Flutter project.
+a little playground project testing the new Flutter SDK
 
 ## Getting Started
 
